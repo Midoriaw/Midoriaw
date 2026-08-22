@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Привет! Я Исмаил (Midoriaw) 👋</h1>
-<h3 align="center">Middle Python Backend Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Middle+Python+Backend+Developer;Async+%26+FastAPI+Enthusiast;Web+Scraping+%26+Automation" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,selenium&theme=dark" alt="Tech Stack" />
@@ -21,6 +24,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Midoriaw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midoriaw&theme=dark&hide_border=true" alt="GitHub Streak" height="150px"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midoriaw&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px"/>
 </p>
 

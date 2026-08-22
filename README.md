@@ -1,3 +1,5 @@
+![Header](https://vercel.app)
+
 # Привет! Я Исмаил (Midoriaw) 👋
 ### Middle Python Backend Разработчик
 
@@ -8,7 +10,7 @@
 
 ---
 
-🛠️ Технологический стек
+### 🛠️ Технологический стек
 
 * **Языки программирования:**
   <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="JavaScript"/>
@@ -21,6 +23,7 @@
 
 * **Инструменты и тесты:**
   <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="Docker"/> <img src="https://shields.io" alt="Pytest"/>
+
 ---
 
 ### 🧠 Обо мне и моем опыте
@@ -40,6 +43,9 @@
 ---
 
 ### 📞 Контакты для связи
-Email: shi0808@bk.ru
 
-Telegram: @S774JR
+<p align="left">
+  <a href="mailto:shi0808@bk.ru">
+    <img src="https://shields.io" alt="Email"/>
+  </a>
+</p>

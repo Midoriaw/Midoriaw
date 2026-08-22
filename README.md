@@ -6,7 +6,13 @@
 <h3 align="center">Middle Python Backend Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlalchemy,postgres,redis,docker,git,selenium,pydantic&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,selenium&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy%202.0-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">

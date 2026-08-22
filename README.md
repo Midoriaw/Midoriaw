@@ -8,27 +8,19 @@
 
 ---
 
-### 🛠️ Технологический стек
+🛠️ Технологический стек
 
 * **Языки программирования:**
-  ![Python](https://shields.io)
-  ![JavaScript](https://shields.io)
+  <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="JavaScript"/>
 
 * **Фреймворки и библиотеки:**
-  ![FastAPI](https://shields.io)
-  ![Asyncio](https://shields.io)
-  ![Pydantic](https://shields.io)
+  <img src="https://shields.io" alt="FastAPI"/> <img src="https://shields.io" alt="Pydantic"/>
 
 * **Базы данных и ORM:**
-  ![PostgreSQL](https://shields.io)
-  ![SQLAlchemy](https://shields.io)
-  ![Redis](https://shields.io)
+  <img src="https://shields.io" alt="PostgreSQL"/> <img src="https://shields.io" alt="SQLAlchemy"/> <img src="https://shields.io" alt="Redis"/>
 
 * **Инструменты и тесты:**
-  ![Git](https://shields.io)
-  ![Docker](https://shields.io)
-  ![Pytest](https://shields.io)
-
+  <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="Docker"/> <img src="https://shields.io" alt="Pytest"/>
 ---
 
 ### 🧠 Обо мне и моем опыте

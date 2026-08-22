@@ -36,9 +36,9 @@
 
 | | |
 |---|---|
-| 🎯 **[Python Backend Trainer](https://github.com)** | Офлайн-тренажёр backend-задач — Python, CustomTkinter · **1000+ скачиваний** |
-| 🤖 **[itch.io Automation](https://github.com)** | Автоматизация браузера — Selenium, undetected-chromedriver, CustomTkinter |
-| 🌐 **[Web Manipulator](https://github.com)** | Расширение для разработчиков — анализ fetch/XHR, правка стилей |
+| 🎯 **[Python Backend Trainer](https://github.com/Midoriaw/PYTHON-BACKEND-TRAIN)** | Офлайн-тренажёр backend-задач — Python, CustomTkinter · **1000+ скачиваний** |
+| 🤖 **[itch.io Automation](https://github.com/Midoriaw/itch.io-metric-boosting)** | Автоматизация браузера — Selenium, undetected-chromedriver, CustomTkinter |
+| 🌐 **[Web Manipulator](https://github.com/Midoriaw/web-manipulator)** | Расширение для разработчиков — анализ fetch/XHR, правка стилей |
 
 ---
 

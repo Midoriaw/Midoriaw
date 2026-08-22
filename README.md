@@ -23,11 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midoriaw&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midoriaw&theme=dark&hide_border=true" alt="GitHub Streak" height="150px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midoriaw&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" height="150px"/>
 </p>
 
 ---

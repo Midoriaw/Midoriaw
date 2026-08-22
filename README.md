@@ -43,9 +43,6 @@
 ---
 
 ### 📞 Контакты для связи
+Email: shi0808@bk.ru
 
-<p align="left">
-  <a href="mailto:shi0808@bk.ru">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
+Telegram: S774JR

@@ -48,12 +48,5 @@
 ---
 
 ### 📞 Контакты для связи
-
-<p align="left">
-  <a href="mailto:shi0808@bk.ru">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram"/>
-  </a>
-</p>
+Email: shi0808@bk.ru
+Telegram: @S774JR

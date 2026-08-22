@@ -1,23 +1,48 @@
 <p align="center">
-  <img src="https://pinimg.com" width="100%" alt="Header" />
+  <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" width="100%" alt="Header" />
 </p>
 
-<p align="center">
-  <sub><b>MIDDLE PYTHON DEVELOPER</b></sub>
+# Привет! Я Исмаил (Midoriaw) 👋
+### Middle Python Backend Разработчик
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <!-- Верхний ряд: вставьте свои 3 ссылки внутрь src="" -->
-  <img src="(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fblog.devgenius.io%2Funderstanding-principles-of-python-1c01eadd4e2f&ved=0CBcQjRxqFwoTCKCopdmRtJYDFQAAAAAdAAAAABA3&opi=89978449)" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fblog.devgenius.io%2Fgetting-started-with-fast-api-c7e52e68685f&ved=0CBcQjRxqFwoTCIivq-WRtJYDFQAAAAAdAAAAABA4&opi=89978449)" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpython.plainenglish.io%2Fa-beginners-guide-to-sqlalchemy-orm-simplifying-database-interactions-with-python-6874e88b6b3&ved=0CBcQjRxqFwoTCNiKp_qRtJYDFQAAAAAdAAAAABBq&opi=89978449)" width="40" height="40" />
-</p>
+### 🛠️ Технологический стек
 
-<p align="center">
-  <!-- Нижний ряд: вставьте свои 2 ссылки внутрь src="" -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ССЫЛКА_НА_КАРТИНКУ_4" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ССЫЛКА_НА_КАРТИНКУ_5" width="40" height="40" />
-</p>
+* **Языки программирования:**
+  <img src="https://shields.io" alt="Python"/> <img src="https://shields.io" alt="JavaScript"/>
+
+* **Фреймворки и библиотеки:**
+  <img src="https://shields.io" alt="FastAPI"/> <img src="https://shields.io" alt="Pydantic"/>
+
+* **Базы данных и ORM:**
+  <img src="https://shields.io" alt="PostgreSQL"/> <img src="https://shields.io" alt="SQLAlchemy"/> <img src="https://shields.io" alt="Redis"/>
+
+* **Инструменты и тесты:**
+  <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="Docker"/> <img src="https://shields.io" alt="Pytest"/>
+
+---
+
+### 🧠 Обо мне и моем опыте
+
+- 🚀 **Специализация:** Создание высоконагруженных backend-систем, разработка парсеров для сложнозащищённых источников и интеграция с внешними API.
+- ⚡ **Ключевые навыки:** Проектирую асинхронную архитектуру, настраиваю логирование, оптимизирую сложные SQL-запросы и обхожу антибот-системы.
+- 🛠️ Есть опыт коммерческой контрактной разработки и SEO-оптимизации крупных систем.
+
+---
+
+### 📁 Мои проекты
+
+* 🤖 **[itch.io Automation](https://github.com)** — десктопное приложение для автоматизации браузера (Selenium, undetected-chromedriver, CustomTkinter).
+* 🎯 **[Python Backend Trainer](https://github.com)** — автономный десктопный тренажёр для проверки бэкенд-задач со встроенной статистикой.
+* 🌐 **[Web Manipulator](https://github.com)** — браузерное расширение для разработчиков (анализ сетевых запросов fetch/XHR, правка стилей).
+
+---
+
+### 📞 Контакты для связи
+
